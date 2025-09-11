@@ -1,0 +1,197 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = win_screen
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1757450957191
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:cbd81364-4c63-4188-b1be-898f1b9a0c47-1757450831316] = [groups:][instances:]
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+  show_screen_background_overlay_on_custom_background = false
+  apply_vanilla_background_blur = false
+}
+
+layout_action_executable_blocks {
+}
+
+element {
+  copy_client_player = false
+  playername = AlexMilash
+  auto_skin = false
+  auto_cape = false
+  slim = false
+  skin_source = [source:local]/config/fancymenu/assets/baldbruiser.png
+  scale = 105
+  parrot = true
+  parrot_left_shoulder = false
+  is_baby = false
+  crouching = false
+  showname = false
+  head_follows_mouse = true
+  body_follows_mouse = true
+  headrotationx = 24.466019
+  headrotationy = 10.92233
+  bodyrotationx = 5.6796117
+  bodyrotationy = 0.0
+  head_z_rot = -4.3689322
+  left_arm_x_rot = -70.776695
+  left_arm_y_rot = 37.572815
+  left_arm_z_rot = 21.407766
+  right_arm_x_rot = 1.7475728
+  right_arm_y_rot = 7.4271846
+  right_arm_z_rot = 76.8932
+  left_leg_x_rot = 0.4368932
+  left_leg_y_rot = 0.0
+  left_leg_z_rot = -8.300971
+  right_leg_x_rot = 0.8737864
+  right_leg_y_rot = 9.61165
+  right_leg_z_rot = 6.1165047
+  body_x_rot_advanced_mode = false
+  body_y_rot_advanced_mode = false
+  head_x_rot_advanced_mode = false
+  head_y_rot_advanced_mode = false
+  head_z_rot_advanced_mode = false
+  left_arm_x_rot_advanced_mode = false
+  left_arm_y_rot_advanced_mode = false
+  left_arm_z_rot_advanced_mode = false
+  right_arm_x_rot_advanced_mode = false
+  right_arm_y_rot_advanced_mode = false
+  right_arm_z_rot_advanced_mode = false
+  left_leg_x_rot_advanced_mode = false
+  left_leg_y_rot_advanced_mode = false
+  left_leg_z_rot_advanced_mode = false
+  right_leg_x_rot_advanced_mode = false
+  right_leg_y_rot_advanced_mode = false
+  right_leg_z_rot_advanced_mode = false
+  element_type = fancymenu_customization_player_entity
+  instance_identifier = 45f27856-2608-4eb5-97d4-850d96cc1610-1757450752843
+  appearance_delay = every_time
+  appearance_delay_seconds = 14.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 2560
+  auto_sizing_base_screen_height = 1372
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = 177
+  y = -55
+  width = 63
+  height = 189
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 9d3a380d-a5f9-4585-9bee-34901451d6a5-1757450206688
+  [loading_requirement_container_meta:9d3a380d-a5f9-4585-9bee-34901451d6a5-1757450206688] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity_v2 = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
+}
+
+element {
+  copy_client_player = false
+  playername = AlexMilash
+  auto_skin = false
+  auto_cape = false
+  slim = false
+  skin_source = [source:local]/config/fancymenu/assets/baldbruiser.png
+  scale = 105
+  parrot = false
+  parrot_left_shoulder = true
+  is_baby = true
+  crouching = false
+  showname = false
+  head_follows_mouse = true
+  body_follows_mouse = false
+  headrotationx = -0.4368932
+  headrotationy = 0.0
+  bodyrotationx = -0.4368932
+  bodyrotationy = 0.0
+  head_z_rot = 0.4368932
+  left_arm_x_rot = 0.0
+  left_arm_y_rot = 0.0
+  left_arm_z_rot = -0.4368932
+  right_arm_x_rot = 0.4368932
+  right_arm_y_rot = 0.8737864
+  right_arm_z_rot = -0.8737864
+  left_leg_x_rot = 0.4368932
+  left_leg_y_rot = 0.0
+  left_leg_z_rot = -8.300971
+  right_leg_x_rot = 0.8737864
+  right_leg_y_rot = 9.61165
+  right_leg_z_rot = 6.1165047
+  body_x_rot_advanced_mode = false
+  body_y_rot_advanced_mode = false
+  head_x_rot_advanced_mode = false
+  head_y_rot_advanced_mode = false
+  head_z_rot_advanced_mode = false
+  left_arm_x_rot_advanced_mode = false
+  left_arm_y_rot_advanced_mode = false
+  left_arm_z_rot_advanced_mode = false
+  right_arm_x_rot_advanced_mode = false
+  right_arm_y_rot_advanced_mode = false
+  right_arm_z_rot_advanced_mode = false
+  left_leg_x_rot_advanced_mode = false
+  left_leg_y_rot_advanced_mode = false
+  left_leg_z_rot_advanced_mode = false
+  right_leg_x_rot_advanced_mode = false
+  right_leg_y_rot_advanced_mode = false
+  right_leg_z_rot_advanced_mode = false
+  element_type = fancymenu_customization_player_entity
+  instance_identifier = a47b3fc8-f2b3-42c6-8796-9f2ee9c65259-1757450885054
+  appearance_delay = every_time
+  appearance_delay_seconds = 14.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 2560
+  auto_sizing_base_screen_height = 1372
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -253
+  y = -62
+  width = 63
+  height = 189
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 9d3a380d-a5f9-4585-9bee-34901451d6a5-1757450206688
+  [loading_requirement_container_meta:9d3a380d-a5f9-4585-9bee-34901451d6a5-1757450206688] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity_v2 = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
+}
+
