@@ -12,7 +12,7 @@ darknessEffectScale:1.0
 glintSpeed:0.5
 glintStrength:0.75
 prioritizeChunkUpdates:0
-fullscreen:false
+fullscreen:true
 gamma:1.0
 graphicsMode:1
 guiScale:4
@@ -22,7 +22,7 @@ narrator:0
 particles:0
 reducedDebugInfo:false
 renderClouds:"true"
-renderDistance:50
+renderDistance:11
 simulationDistance:5
 screenEffectScale:1.0
 soundDevice:""
@@ -48,8 +48,8 @@ mouseSensitivity:0.4431778169014083
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["pfm-asset-resources","vanilla","fabric","visualoverhaul:coloredwaterbucket","visualoverhaul:rounddiscs","visualoverhaul:nobrewingbottles","visualoverhaul:fancyfurnace","tooltrims:tooltrims"]
-incompatibleResourcePacks:["animal_armor_trims","badoptimizations","balm","drippyloadingscreen","fancymenu","glore","jade","jei","kiwi","konkrete","modernfix","patchouli","skniro_furniture","sodiumdynamiclights","terrablender","waystones","xaerominimap","xaeroworldmap","yet_another_config_lib_v3"]
+resourcePacks:["pfm-asset-resources","vanilla","fabric","visualoverhaul:coloredwaterbucket","visualoverhaul:rounddiscs","visualoverhaul:nobrewingbottles","visualoverhaul:fancyfurnace","tooltrims:tooltrims","file/Soft-Weather-1.0-Universal.zip","file/SodiumTranslations.zip"]
+incompatibleResourcePacks:["animal_armor_trims","badoptimizations","balm","drippyloadingscreen","fancymenu","glore","jade","jei","kiwi","konkrete","modernfix","mynethersdelight","patchouli","skniro_furniture","sodiumdynamiclights","terrablender","waystones","xaerominimap","xaeroworldmap","yet_another_config_lib_v3"]
 lastServer:d
 lang:ru_ru
 chatVisibility:0
