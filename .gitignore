@@ -27,6 +27,7 @@ launcher_accounts.json
 launcher_cef_log.txt
 launcher_entitlements.json
 launcher_gamer_pics.json
+launcher_log*.txt
 launcher_msa_credentials.bin
 launcher_product_state.json
 launcher_profiles.json
@@ -41,4 +42,5 @@ usercache.json
 servers.dat_old
 mods/mcef-cache/
 mods/mcef-libraries/
+
  

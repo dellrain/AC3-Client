@@ -36,7 +36,8 @@
     "de.maxhenkel.voicechat.gui.group.GroupScreen": true,
     "de.maxhenkel.voicechat.gui.audiodevice.SelectMicrophoneScreen": true,
     "de.maxhenkel.voicechat.gui.audiodevice.SelectSpeakerScreen": true,
-    "de.maxhenkel.voicechat.gui.volume.AdjustVolumesScreen": true
+    "de.maxhenkel.voicechat.gui.volume.AdjustVolumesScreen": true,
+    "net.minecraft.class_5375": true
   },
   "hideBackground": {
     "mezz.jei.gui.recipes.RecipesGui": true
