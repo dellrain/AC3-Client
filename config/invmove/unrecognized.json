@@ -37,7 +37,20 @@
     "de.maxhenkel.voicechat.gui.audiodevice.SelectMicrophoneScreen": true,
     "de.maxhenkel.voicechat.gui.audiodevice.SelectSpeakerScreen": true,
     "de.maxhenkel.voicechat.gui.volume.AdjustVolumesScreen": true,
-    "net.minecraft.class_5375": true
+    "net.minecraft.class_5375": true,
+    "xaero.common.gui.GuiMinimapMiscSettings": true,
+    "xaero.common.gui.GuiEntityRadarSettings": true,
+    "xaero.common.gui.GuiMinimapViewSettings": true,
+    "xaero.common.gui.GuiMinimapOverlaysSettings": true,
+    "xaero.common.gui.GuiEditMode": true,
+    "xaero.common.gui.GuiMinimapBlockMapSettings": true,
+    "xaero.common.gui.GuiWaypointSettings": true,
+    "xaero.map.gui.GuiMapTpCommand": true,
+    "xaero.map.gui.GuiPlayerTpCommand": true,
+    "vazkii.patchouli.client.book.gui.GuiBookLanding": true,
+    "vazkii.patchouli.client.book.gui.GuiBookEntry": true,
+    "net.minecraft.class_410": true,
+    "me.shedaniel.clothconfig2.gui.ClothConfigScreen": true
   },
   "hideBackground": {
     "mezz.jei.gui.recipes.RecipesGui": true

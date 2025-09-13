@@ -87,9 +87,6 @@ net.minecraft.class_434 {
 net.minecraft.class_433 {
 }
 
-net.minecraft.class_442 {
-}
-
 io.github.thecsdev.betterstats.api.client.gui.screen.BetterStatsScreenWrapper {
 }
 

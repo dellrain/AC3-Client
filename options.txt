@@ -210,8 +210,8 @@ key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_iris.keybind.wireframe:key.keyboard.unknown
-soundCategory_master:0.5347345819536423
-soundCategory_music:1.0
+soundCategory_master:0.2257075227649007
+soundCategory_music:0.27822953345070417
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
