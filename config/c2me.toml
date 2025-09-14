@@ -51,6 +51,8 @@ globalExecutorParallelism = "default"
 		# 
 		enableExtRenderDistanceProtocol = "default"
 		# (Default: true) Whether to modify maximum view distance
+		# Set to false for the following reasons: 
+		# Incompatible with bobby@5.2.4+mc1.21 (*) (defined in c2me) 
 		enabled = "default"
 		# (Default: 50) Max render distance allowed in game options
 		maxViewDistance = "default"

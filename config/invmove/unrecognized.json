@@ -52,10 +52,22 @@
     "net.minecraft.class_410": true,
     "me.shedaniel.clothconfig2.gui.ClothConfigScreen": true,
     "net.blay09.mods.waystones.client.gui.screen.WaystoneSelectionScreen": true,
-    "net.minecraft.class_458": true
+    "net.minecraft.class_458": true,
+    "com.unlikepaladin.pfm.client.screens.IronStoveScreen": true,
+    "com.cerbon.better_beacons.client.screen.NewBeaconScreen": true,
+    "net.minecraft.class_6599": true,
+    "xaero.common.gui.GuiWaypoints": true,
+    "xaero.common.gui.GuiClearSet": true,
+    "xaero.common.gui.GuiWorldTpCommand": true,
+    "xaero.common.gui.GuiDefaultTpCommand": true,
+    "com.terraformersmc.modmenu.gui.ModsScreen": true,
+    "net.minecraft.class_5522": true
   },
   "hideBackground": {
     "mezz.jei.gui.recipes.RecipesGui": true,
-    "net.blay09.mods.waystones.client.gui.screen.WaystoneSelectionScreen": true
+    "net.blay09.mods.waystones.client.gui.screen.WaystoneSelectionScreen": true,
+    "com.unlikepaladin.pfm.client.screens.IronStoveScreen": true,
+    "com.cerbon.better_beacons.client.screen.NewBeaconScreen": true,
+    "net.minecraft.class_5522": true
   }
 }

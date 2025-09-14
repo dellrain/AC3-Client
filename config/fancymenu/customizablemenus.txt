@@ -93,3 +93,6 @@ io.github.thecsdev.betterstats.api.client.gui.screen.BetterStatsScreenWrapper {
 net.minecraft.class_429 {
 }
 
+net.minecraft.class_442 {
+}
+
