@@ -63,7 +63,16 @@
     "com.terraformersmc.modmenu.gui.ModsScreen": true,
     "net.minecraft.class_5522": true,
     "org.betterx.betterend.client.gui.EndStoneSmelterScreen": true,
-    "net.minecraft.class_407": true
+    "net.minecraft.class_407": true,
+    "betteradvancements.common.gui.BetterAdvancementsScreen": true,
+    "com.blamejared.controlling.client.NewKeyBindsScreen": true,
+    "com.tiviacz.travelersbackpack.client.screens.BackpackScreen": true,
+    "me.cominixo.betterf3.config.gui.ModConfigScreen": true,
+    "me.cominixo.betterf3.config.gui.modules.ModulesScreen": true,
+    "dev.tr7zw.trender.gui.client.AbstractConfigScreen$1": true,
+    "eu.midnightdust.lib.config.MidnightConfig$MidnightConfigScreen": true,
+    "xaero.common.gui.GuiEntityRadarCategoryEditor": true,
+    "xaero.hud.category.ui.GuiCategoryEditor$1": true
   },
   "hideBackground": {
     "mezz.jei.gui.recipes.RecipesGui": true,
@@ -71,6 +80,7 @@
     "com.unlikepaladin.pfm.client.screens.IronStoveScreen": true,
     "com.cerbon.better_beacons.client.screen.NewBeaconScreen": true,
     "net.minecraft.class_5522": true,
-    "org.betterx.betterend.client.gui.EndStoneSmelterScreen": true
+    "org.betterx.betterend.client.gui.EndStoneSmelterScreen": true,
+    "com.tiviacz.travelersbackpack.client.screens.BackpackScreen": true
   }
 }
