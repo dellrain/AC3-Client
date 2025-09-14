@@ -61,13 +61,16 @@
     "xaero.common.gui.GuiWorldTpCommand": true,
     "xaero.common.gui.GuiDefaultTpCommand": true,
     "com.terraformersmc.modmenu.gui.ModsScreen": true,
-    "net.minecraft.class_5522": true
+    "net.minecraft.class_5522": true,
+    "org.betterx.betterend.client.gui.EndStoneSmelterScreen": true,
+    "net.minecraft.class_407": true
   },
   "hideBackground": {
     "mezz.jei.gui.recipes.RecipesGui": true,
     "net.blay09.mods.waystones.client.gui.screen.WaystoneSelectionScreen": true,
     "com.unlikepaladin.pfm.client.screens.IronStoveScreen": true,
     "com.cerbon.better_beacons.client.screen.NewBeaconScreen": true,
-    "net.minecraft.class_5522": true
+    "net.minecraft.class_5522": true,
+    "org.betterx.betterend.client.gui.EndStoneSmelterScreen": true
   }
 }

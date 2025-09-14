@@ -20,4 +20,26 @@ beaconBeamCulling = true
 useOnModdedBlocksByDefault = true
 
 [modCompatibility]
+furniture = true
+furnies = true
+ends_delight = true
+nightlights = true
+farmersdelight = true
+mcwfurnitures = true
+woodwevegot = true
+mynethersdelight = true
+pfm = true
+endrem = true
+waystones = true
+creeperoverhaul = true
+monolib = true
+betterend = true
+snowrealmagic = true
+another_furniture = true
+crittersandcompanions = true
+biomeswevegone = true
+visualworkbench = true
+exposure = true
+skniro_furniture = true
 minecraft = true
+visualoverhaul = true

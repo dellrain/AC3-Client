@@ -48,7 +48,7 @@ mouseSensitivity:0.4431778169014083
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["pfm-asset-resources","vanilla","fabric","visualoverhaul:coloredwaterbucket","visualoverhaul:rounddiscs","visualoverhaul:nobrewingbottles","visualoverhaul:fancyfurnace","tooltrims:tooltrims","file/Soft-Weather-1.0-Universal.zip","file/SodiumTranslations.zip"]
+resourcePacks:["pfm-asset-resources","vanilla","fabric","visualoverhaul:coloredwaterbucket","visualoverhaul:rounddiscs","visualoverhaul:nobrewingbottles","visualoverhaul:fancyfurnace","tooltrims:tooltrims","file/Soft-Weather-1.0-Universal.zip","file/SodiumTranslations.zip","knowlogy:1.21.0_tricky_trials","exposure_knowlogy:exposure_polaroid","exposure_knowlogy:exposure","knowlogy:1.0.0_minecraft"]
 incompatibleResourcePacks:["animal_armor_trims","badoptimizations","balm","drippyloadingscreen","fancymenu","glore","jade","jei","kiwi","konkrete","modernfix","mynethersdelight","patchouli","skniro_furniture","sodiumdynamiclights","terrablender","waystones","xaerominimap","xaeroworldmap","yet_another_config_lib_v3"]
 lastServer:d
 lang:ru_ru
