@@ -1,3 +1,5 @@
+.bobby/
+.cache/
 .fabric/
 .mixin.out/
 assets/
