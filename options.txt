@@ -22,7 +22,7 @@ narrator:0
 particles:0
 reducedDebugInfo:false
 renderClouds:"true"
-renderDistance:32
+renderDistance:9
 simulationDistance:5
 screenEffectScale:1.0
 soundDevice:""
@@ -48,8 +48,8 @@ mouseSensitivity:0.4431778169014083
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["pfm-asset-resources","vanilla","fabric","visualoverhaul:coloredwaterbucket","visualoverhaul:rounddiscs","visualoverhaul:nobrewingbottles","visualoverhaul:fancyfurnace","tooltrims:tooltrims","file/Soft-Weather-1.0-Universal.zip","file/SodiumTranslations.zip","knowlogy:1.21.0_tricky_trials","exposure_knowlogy:exposure_polaroid","exposure_knowlogy:exposure","knowlogy:1.0.0_minecraft"]
-incompatibleResourcePacks:["animal_armor_trims","badoptimizations","balm","drippyloadingscreen","fancymenu","glore","jade","jei","kiwi","konkrete","modernfix","mynethersdelight","patchouli","skniro_furniture","sodiumdynamiclights","terrablender","waystones","xaerominimap","xaeroworldmap","yet_another_config_lib_v3"]
+resourcePacks:["pfm-asset-resources","vanilla","fabric","visualoverhaul:coloredwaterbucket","visualoverhaul:rounddiscs","visualoverhaul:nobrewingbottles","visualoverhaul:fancyfurnace","tooltrims:tooltrims","file/SodiumTranslations.zip","exposure_knowlogy:exposure_polaroid","exposure_knowlogy:exposure","knowlogy:1.0.0_minecraft","minecraft:supporteatinganimation","tooltrims:legacy"]
+incompatibleResourcePacks:["badoptimizations","balm","drippyloadingscreen","exposure_knowlogy","fancymenu","glore","jade","jei","kiwi","knowlogy","konkrete","modernfix","mynethersdelight","skniro_furniture","sodiumdynamiclights","terrablender","waystones","xaerominimap","xaeroworldmap","yet_another_config_lib_v3"]
 lastServer:d
 lang:ru_ru
 chatVisibility:0
@@ -130,6 +130,7 @@ key_key.entityculling.toggle:key.keyboard.unknown
 key_key.exposure.camera_controls:key.keyboard.unknown
 key_key.fabrictailor.toggle_skin_gui:key.keyboard.k
 key_keybind.invmove.toggleMove:key.keyboard.unknown
+key_key.pickup.item:key.keyboard.unknown
 key_key.jade.config:key.keyboard.keypad.0
 key_key.jade.show_overlay:key.keyboard.keypad.1
 key_key.jade.toggle_liquid:key.keyboard.keypad.2
@@ -170,7 +171,14 @@ key_key.jei.closeRecipeGui:key.keyboard.escape
 key_key.jei.copy.recipe.id:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_key.pfm.toiletUse:key.keyboard.y
+key_key.presencefootsteps.settings:key.keyboard.f10
+key_key.presencefootsteps.toggle:key.keyboard.unknown
 key_key.sort_it_out.sort:key.keyboard.i
+key_key.travelersbackpack.inventory:key.keyboard.b
+key_key.travelersbackpack.sort:key.keyboard.unknown
+key_key.travelersbackpack.ability:key.keyboard.unknown
+key_key.travelersbackpack.cycle_tool:key.keyboard.z
+key_key.travelersbackpack.toggle_tank:key.keyboard.n
 key_key.push_to_talk:key.keyboard.caps.lock
 key_key.whisper:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.unknown
@@ -213,7 +221,7 @@ key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_iris.keybind.wireframe:key.keyboard.unknown
-soundCategory_master:0.2257075227649007
+soundCategory_master:0.4294042322019868
 soundCategory_music:0.27822953345070417
 soundCategory_record:1.0
 soundCategory_weather:1.0
